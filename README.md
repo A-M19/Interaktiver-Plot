@@ -19,9 +19,4 @@ Das Projekt verwendet das PDM-Paketmanagementsystem.
     Bash
     streamlit run main.py
 
-# Anzeige der App
-
-```bash
-git add README.md
-git commit -m "Fix: README Formatierung und Bild"
-git push origin main
+![App Screenshot](screenshot.png)

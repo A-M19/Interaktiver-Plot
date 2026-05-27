@@ -7,16 +7,23 @@ Dieses Streamlit-Projekt dient der sportwissenschaftlichen Auswertung von Leistu
 * Dynamische Zonenbänder: Farbliche Hinterlegung der 5 Herzfrequenz-Zonen basierend auf der individuellen maximalen Herzfrequenz des Nutzers.
 * Zonenspezifische Auswertung: Tabellarische Übersicht über die exakte Verweildauer (in Sekunden) und die durchschnittliche erbrachte Leistung pro Zone.
 
-# Installation & Start
+# Verwendete Bibliotheken & Installation
 
-Das Projekt verwendet das PDM-Paketmanagementsystem.
+Für dieses Projekt wurden die folgenden Python-Bibliotheken verwendet:
+* Streamlit
+* Pandas
+* Numpy
+* Plotly
 
-1. Abhängigkeiten installieren:
-   Bash
-   pdm install
+Das Projekt verwendet das PDM-Paketmanagementsystem. Alle oben genannten Bibliotheken können automatisch mit einem einzigen Befehl heruntergeladen und installiert werden.
+
+1. **Bibliotheken herunterladen und installieren:**
+   ```bash
+   pip install
+
 
 2. Streamlit App starten:
-    Bash
+    ```bash
     streamlit run main.py
 
 ![App Screenshot](screenshot.png)

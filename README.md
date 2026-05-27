@@ -15,7 +15,7 @@ Für dieses Projekt wurden die folgenden Python-Bibliotheken verwendet:
 * Numpy
 * Plotly
 
-Das Projekt verwendet das PDM-Paketmanagementsystem. Alle oben genannten Bibliotheken können automatisch mit einem einzigen Befehl heruntergeladen und installiert werden.
+Das Projekt verwendet das pip-Paketmanagementsystem. Alle oben genannten Bibliotheken können automatisch mit einem einzigen Befehl heruntergeladen und installiert werden.
 
 1. **Bibliotheken herunterladen und installieren:**
    ```bash
